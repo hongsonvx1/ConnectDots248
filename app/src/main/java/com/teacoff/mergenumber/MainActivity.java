@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.twofor.puzzle;
+package com.teacoff.mergenumber;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.twofor.puzzle"
+    package="com.teacoff.mergenumber"
     android:hardwareAccelerated="true"
     android:versionCode="1"
     android:versionName="1.0.0"
@@ -24,7 +24,7 @@
         android:supportsRtl="true"
         tools:ignore="AllowBackup">
         <activity
-            android:name="MainActivity"
+            android:name="com.teacoff.mergenumber.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
             android:label="@string/activity_name"
             android:launchMode="singleTop"

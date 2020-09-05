@@ -407,7 +407,7 @@ function rateus()
       ios: '310633997',
       android: 'market://details?id=com.twofor.game'
     };
-    AppRate.promptForRating();
+    apprate.promptforrating();
 }
 function doFadeIn(pGame, bFadeIn) {
     
